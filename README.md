@@ -49,7 +49,7 @@
 ## 버킷리스트  
 * [유퀴즈 온 더 블럭][유퀴즈] 출연하기
 * [PNC PARK][PNC 파크]에서 [피츠버그][Pittsburgh] 경기 직관하기   
-* ~~고척돔에서 키움 경기 직관하기(2021.4.27 달성)~~  
+* ~~[고척스카이돔][고척돔]에서 키움 경기 직관하기(2021.4.27 달성)~~  
 * ~~키움 유니폼 사기(2021.5.13 달성)~~  
 * 내 집 마련  
 * 자차(벤틀리) 마련  
@@ -68,3 +68,4 @@
 [PNC 파크]:https://ko.wikipedia.org/wiki/PNC_%ED%8C%8C%ED%81%AC
 [Pittsburgh]:https://ko.wikipedia.org/wiki/%ED%94%BC%EC%B8%A0%EB%B2%84%EA%B7%B8
 [유퀴즈]:http://program.tving.com/tvn/youquizontheblock
+[고척돔]:https://www.sisul.or.kr/open_content/skydome/
