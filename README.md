@@ -1,6 +1,7 @@
 # RESUME ( choi yujeong )
 
 ## 개인 이력사항  
+<img src=1358c.jpg width=250 height=300>
 
 #### 이름: 최유정
 #### email : chldbwjd414@naver.com
