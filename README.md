@@ -4,7 +4,7 @@
 
 #### 이름: 최유정
 #### email : chldbwjd414@naver.com
-#### university : hallym university
+#### university : [Hallym University](http://www.hallym.ac.kr)
 
 > 취미
 >> 야구 경기 관람  
@@ -23,4 +23,6 @@
 * 백신
 *********
 * 오픈소스
-* 자바
+* 자바  
+
+[Google](http://www.google.com)
